@@ -15,6 +15,7 @@ This project demonstrates a simple hospital database system including database q
 
 ## Author
 
-Patcharaphon Lapchumsri  
-Computer Science Student  
+Patcharaphon Lapchumsri
+
+B.Sc. Computer Science Student
 Suranaree University of Technology (SUT)
